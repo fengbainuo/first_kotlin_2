@@ -1,5 +1,6 @@
 fun main(args: Array<String>) {
     println("Hello World!")
+    print("írd be a stringet amit szeretnél látni: ")
     val a = readln()
     println(a)
 
